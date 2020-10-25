@@ -15,5 +15,5 @@ Want to use the code?
 3.) Then for a fast result, open home page on web browser
 
 NOTE:
--If stuck or confused, please contact:hussein.farraj1234@gmail.com
+-If stuck or confused, please contact: hussein.farraj1234@gmail.com
 I would love to help in any way I can.
