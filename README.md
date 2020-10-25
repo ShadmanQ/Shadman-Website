@@ -12,9 +12,7 @@ Website deployed to Netlify, view here: https://shadmanquazi.com/
 Want to use the code?
 
 1.) Fork the repository
-
 2.) cd into folder, and open home page in sublime
-
 3.) Then for a fast result, open home page on web browser
 
 NOTE:
