@@ -1,8 +1,10 @@
 Shadman Quazi Portfolio Website
 
 /*
+
 This is a static portfolio website for Shadman Quazi. 
 Developed for desktop and mobile screens.  
+
 */
 
 Website deployed to Netlify, view here: https://shadmanquazi.com/
